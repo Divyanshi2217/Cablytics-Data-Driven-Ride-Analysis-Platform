@@ -1,0 +1,9 @@
+ride_id,pickup_datetime,pickup_location,drop_location,fare_amount,distance,duration,hour,day,hour,total_rides,,pickup_location,total_rides,,drop_location,total_rides,,distance,avg_fare,,day,total_rides,,Metric,Value
+1,01-01-2024 08:30,Downtown,Airport,250,10.5,25,8,Monday,7,1,,Downtown,2,,Airport,1,,10.5,250,,Monday,3,,Total Revenue,1580
+2,01-01-2024 09:00,Mall,Station,120,5,15,9,Monday,8,1,,Mall,2,,Station,1,,5,120,,Monday,3,,Average Fare,197.5
+3,01-01-2024 18:45,Office,Home,200,8,20,18,Monday,9,1,,Office,1,,Home,2,,8,200,,Monday,3,,Max Fare,300
+4,02-01-2024 20:00,Airport,Hotel,300,12,30,20,Tuesday,18,1,,Airport,1,,Hotel,1,,12,300,,Tuesday,2,,Min Fare,120
+5,02-01-2024 22:15,Downtown,Mall,150,6,18,22,Tuesday,19,1,,Downtown,2,,Mall,1,,6,150,,Tuesday,2,,,
+6,03-01-2024 07:45,Home,Office,180,7.5,22,7,Wednesday,20,1,,Home,1,,Office,1,,7.5,180,,Wednesday,2,,,
+7,03-01-2024 19:30,Mall,Home,160,6.5,19,19,Wednesday,22,1,,Mall,2,,Home,2,,6.5,160,,Wednesday,2,,,
+8,04-01-2024 23:00,Station,Downtown,220,9,24,23,Thursday,23,1,,Station,1,,Downtown,1,,9,220,,Thursday,1,,,
